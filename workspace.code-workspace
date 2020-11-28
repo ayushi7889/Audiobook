@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\Python Scripts"
+		},
+		{
+			"path": "..\\..\\Desktop\\bootstrap"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Diceprogram"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\AYUSHI\\Anaconda3\\python.exe"
+	}
+}
